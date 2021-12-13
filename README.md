@@ -19,6 +19,7 @@ Happy Hacking💙!
 
 - [🧠 Context](#-context)
   - [⚔️ The Challenge](#️-the-challenge)
+  - [🏁 Requirements](#-requirements)
   - [🤟 You Must](#-you-must)
   - [🚰 Ideal Flux](#-ideal-flux)
 - [✔️ Avaluation Criteria](#️-avaluation-criteria)
