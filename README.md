@@ -1,97 +1,106 @@
-![image]()
+![image](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?cs=srgb&dl=pexels-lukas-590022.jpg&fm=jpg)
 
 # 🚀 Backend challenge
-https://www.kaggle.com/imakash3011/customer-personality-analysis?select=marketing_campaign.csv
 
-Bem-vindo(a). Este é o desafio Backend!
+Welcome! This is the Google Sheets Backend Challenge!
 
-O objetivo deste desafio é avaliar suas habilidades de programação.
-Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
-Em seguida, enviaremos o feedback e as instruções dos próximos passos!
+Our main goal is to avaluate your coding and presentation skills.
+When you feel ready to submit your answers, use the link we sent to your e-mail to post your Github Repo!
+We will send you further instructions and your feedback then.
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *contato.steamgroups@gmail.com*
-Bom desafio!
+Any doubts, don't hesitate to contact us on *contato.steamgroups@gmail.com*
+Happy Hacking💙!
 
-> ⚠️ **É importante que o seu repositório esteja público, caso contrário não iremos conseguir avaliar sua resposta**
+> ⚠️ **Remember, your repository must be public, otherwise we won't be able to avaluate your answer**
+
 ---
 
 ## Table of Contents
 
-- [🧠 Contexto](#-contexto)
-  - [⚔️ O Desafio](#️-o-desafio)
-  - [🚰 Fluxo esperado](#-fluxo-esperado)
-  - [📓 Submissão](#-submissão)
-- [✔️ Critérios de Avaliação](#️-critérios-de-avaliação)
-- [:rocket: Instruções](#rocket-instruções)
-  - [:notebook: To-do list](#notebook-to-do-list)
+- [🧠 Context](#-context)
+  - [⚔️ The Challenge](#️-the-challenge)
+  - [🤟 You Must](#-you-must)
+  - [🚰 Ideal Flux](#-ideal-flux)
+- [✔️ Avaluation Criteria](#️-avaluation-criteria)
+- [:notebook: To-do list](#notebook-to-do-list)
+- [You can](#-you-can)
 
-# 🧠 Contexto
+# 🧠 Context
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
 Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
 
-Esse desafio visa analisar as suas habilidades de analise e compreensão de planilhas e o manuseio das mesmas a partir da API do Googlesheet; assim como a interpretação dos dados e a capacidade de exibir visualmente para um usário final leigo.
+This challenge aims to test your skills in analyzing and understanding spreadsheets and handling them from the [Googlesheet API](https://developers.google.com/sheets/api/guides/concepts); as well as data interpretation and the ability to visually display for a layman end user.
 
 ---
-### ⚔️ O Desafio
+### ⚔️ The Challenge
 
-O desafio é muito simples, você deve acessar a API e buscar algumas informações (citadas abaixo) e depois exibir visualmente da forma que achar melhor. Pode ser criando uma apresentação, gráficos, Charts ou o que mais imaginar. Faça da forma mais criativa que puder.
+The challenge is very simple, you must access the API and get some information (mentioned below) and then display it visually in the way you see fit. It can be creating a presentation, graphs, charts or whatever else you can imagine. Do it as creatively as you can.
 
-#### Você deve:
+For more Information about the CSV File, click [here](https://www.kaggle.com/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
 
-- [ ] Encontrar os consumidores nascidos entre 1957 e 1967 que possuam mestrado (master) e que sejam casados;
-- [ ] Qual pecentual dos consumidores encontrados em relação ao total; 
-- [ ] Quantos possuem crianças em casa;
-- [ ] Quantos possuem adolescentes em casa;
+## 🏁 Requirements
 
-### 🚰 Fluxo Recomendado
+- API Knowlegment
+- Java Knowlegment
 
-- Encontre os consumidores nascidos entre 1957 e 1967, através da API Googlesheet;
-- Crie um filtro para obter somente os consumidores que possuam Mestrado;
-- Crie um filtro para obter somente os consumidores que possuam casados;
-- Represente visualmente os dados obtidos;
-- Calcule o percentual dos consumidores;
-- Represente visualmente os dados obtidos;
-- Encontre o numero de consumidores que possuam crianças;
-- Encontre o numero de consumidores que possuam adolescentes;
-- Represente visualmente os dados obtidos;
+
+#### 🤟 You Must
+
+- [ ] Code in Java;
+- [ ] Find consumers born between 1957 and 1967 who have a master's degree and who are married;
+- [ ] What percentage of consumers found in relation to the total;
+- [ ] How many have children at home;
+- [ ] How many have teenagers at home;
+
+### 🚰 Ideal Flux
+
+- Find consumers born between 1957 and 1967 through the Googlesheet API;
+- Create a filter to get only consumers who have a Master's degree;
+- Create a filter to get only those consumers who are married;
+  - Visually represent the data obtained;
+- Calculate the percentage of consumers;
+  - Visually represent the data obtained;
+- Find the number of consumers who have children;
+- Find the number of consumers who have teenagers;
+  - Visually represent the data obtained;
 ---
 
 **Operações necessárias**
 
-- [ ] Leia atentamente a documentação da API do  Googlesheet;
-- [ ] Salve o que achar necessário em variáveis;
-- [ ] :warning: exibir os dados de saída do código;
+- [ ] Carefully read the Googlesheet API documentation;
+- [ ] Save what you find necessary in variables;
+- [ ] :warning: Display the code output data;
  
 
-## ✔️ Critérios de Avaliação
+## ✔️ Avaluation Criteria
 
-Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
+In addition to the requirements raised above, we will look at the following criteria when correcting the challenge:
 
-- se o desafio foi totalmente realizado;
-- se as etapas foram cumpridas com sucesso;
-- se o código está limpo e bem documentado;
-- se o código está otimizado;
-- a forma de apresentação;
-- preocupação com o usuário final;
+- If the challenge was fully accomplished;
+- Whether the steps were successfully completed;
+- If the code is clean and well documented;
+- If the code is optimized;
+- The form of presentation;
+- Concern for the end user;
 
 
 ### :notebook: To-do list
-- [ ] Realizar o desafio
-  - [ ] Encontrar os consumidores nascidos entre 1957 e 1967;
-  - [ ] Encontre o numero de consumidores que possuam crianças;
-  - [ ] Encontre o numero de consumidores que possuam adolescentes;
-- [ ] Incluir no README os detalhes da sua solução;
-  - [ ] o que foi cumprido no desafio;
-  - [ ] instruções de como verificar o que foi cumprido;
-  - [ ] printe as imagens que comprovem as suas soluções;
-  - [ ] README deve ser em inglês;
+- [ ] Fully take the challenge
+  - [ ] Find consumers born between 1957 and 1967;
+  - [ ] Find the number of consumers who have children;
+  - [ ] Find the number of consumers who have teenagers;
+- [ ] Include the details of your solution in the README;
+  - [ ] What was accomplished in the challenge;
+  - [ ] Instructions on how to check what was fulfilled;
+  - [ ] Print the images that prove your solutions;
+  - [ ] README must be in English;
 
 
 ### You can:
-:information_source: _Sinta-se livre para incluir quaisquer observações que achar necessário_
+:information_source: _Feel free to include all the observations you may find necessary_
 
 ---
 
-Made with 💜 
+Made with 💜 by SteamGroups
