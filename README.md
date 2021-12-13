@@ -39,7 +39,7 @@ This challenge aims to test your skills in analyzing and understanding spreadshe
 
 The challenge is very simple, you must access the API and get some information (mentioned below) and then display it visually in the way you see fit. It can be creating a presentation, graphs, charts or whatever else you can imagine. Do it as creatively as you can.
 
-For more Information about the CSV File, click [here](https://www.kaggle.com/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
+To get the CSV File, access [here](https://drive.google.com/file/d/1JweH2MW-Vy8SgOHmevKW_k0JQpZjEG11/view?usp=sharing)
 
 ## 🏁 Requirements
 
