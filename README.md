@@ -48,20 +48,19 @@ O desafio é muito simples, você deve acessar a API e buscar algumas informaç�
 ### 🚰 Fluxo Recomendado
 
 - Encontre os consumidores nascidos entre 1957 e 1967, através da API Googlesheet;
-- crie um filtro para obter somente os consumidores que possuam somente Mestrado;
-- crie um filtro para obter somente os consumidores que possuam somente casados;
-- represente visualmente os dados obtidos;
-- calcule o percentual dos consumidores;
-- represente visualmente os dados obtidos;
+- Crie um filtro para obter somente os consumidores que possuam Mestrado;
+- Crie um filtro para obter somente os consumidores que possuam casados;
+- Represente visualmente os dados obtidos;
+- Calcule o percentual dos consumidores;
+- Represente visualmente os dados obtidos;
 - Encontre o numero de consumidores que possuam crianças;
 - Encontre o numero de consumidores que possuam adolescentes;
-- represente visualmente os dados obtidos;
+- Represente visualmente os dados obtidos;
 ---
 
 **Operações necessárias**
 
-- [ ] Leia a documentação;
-- [ ] Guarde os personagens, planetas e pilotos em variáveis;
+- [ ] Leia atentamente a documentação da API do  Googlesheet;
 - [ ] Salve o que achar necessário em variáveis;
 - [ ] :warning: exibir os dados de saída do código;
  
@@ -80,10 +79,10 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 
 ### :notebook: To-do list
 - [ ] Realizar o desafio
-  - [ ] Encontrar os personagens que *mais* apareceram em todos os filmes de Star Wars;
-  - [ ] Obter a Área dos planetas e ordenar do Maior para o menor;
-  - [ ] Verificar quantas pessoas pilotaram a nossa querida Millennium Falcon e exibir o nome dos mesmos;
-- [ ] Incluir no README os detalhes da sua solução
+  - [ ] Encontrar os consumidores nascidos entre 1957 e 1967;
+  - [ ] Encontre o numero de consumidores que possuam crianças;
+  - [ ] Encontre o numero de consumidores que possuam adolescentes;
+- [ ] Incluir no README os detalhes da sua solução;
   - [ ] o que foi cumprido no desafio;
   - [ ] instruções de como verificar o que foi cumprido;
   - [ ] printe as imagens que comprovem as suas soluções;
