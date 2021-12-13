@@ -68,7 +68,7 @@ For more Information about the CSV File, click [here](https://www.kaggle.com/ima
   - Visually represent the data obtained;
 ---
 
-**Operações necessárias**
+**Essential Operations**
 
 - [ ] Carefully read the Googlesheet API documentation;
 - [ ] Save what you find necessary in variables;
