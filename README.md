@@ -4,14 +4,14 @@
 
 Welcome! This is the Google Sheets Backend Challenge!
 
-Our main goal is to avaluate your coding and presentation skills.
+Our main goal is to evaluate your coding and presentation skills.
 When you feel ready to submit your answers, use the link we sent to your e-mail to post your Github Repo!
 We will send you further instructions and your feedback then.
 
 Any doubts, don't hesitate to contact us on *contato.steamgroups@gmail.com*
 Happy Hacking💙!
 
-> ⚠️ **Remember, your repository must be public, otherwise we won't be able to avaluate your answer**
+> ⚠️ **Remember, your repository must be public, otherwise we won't be able to evaluate your answer**
 
 ---
 
@@ -22,7 +22,7 @@ Happy Hacking💙!
   - [🏁 Requirements](#-requirements)
   - [🤟 You Must](#-you-must)
   - [🚰 Ideal Flux](#-ideal-flux)
-- [✔️ Avaluation Criteria](#️-avaluation-criteria)
+- [✔️ Evaluation Criteria](#️-evaluation-criteria)
 - [:notebook: To-do list](#notebook-to-do-list)
 - [You can](#-you-can)
 
@@ -75,7 +75,7 @@ To get the CSV File, access [here](https://drive.google.com/file/d/1JweH2MW-Vy8S
 - [ ] :warning: Display the code output data;
  
 
-## ✔️ Avaluation Criteria
+## ✔️ Evaluation Criteria
 
 In addition to the requirements raised above, we will look at the following criteria when correcting the challenge:
 
